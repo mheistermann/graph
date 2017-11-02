@@ -234,3 +234,4 @@ endif()
 
 # Install the headers.
 install(DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/include/andres" DESTINATION include)
+install(DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/include/nl-lmp" DESTINATION include)
